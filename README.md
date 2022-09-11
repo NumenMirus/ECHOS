@@ -28,12 +28,3 @@ Il progetto deve essere corredato da una relazione in formato PDF opportunamente
 5.	Principali scelte progettuali:  politiche di integrit`a e come sono state garantite in pratica (es. trigger), definizione di ruoli e politiche di autorizzazione, uso di indici, ecc. Tutte le principali scelte progettuali devono essere opportunamente commentate e motivate.
 6.	Ulteriori informazioni: scelte tecnologiche specifiche (es. librerie usate) e qualsiasi altra informazione sia necessaria per apprezzare il progetto.
 Il codice del progetto deve essere inoltre opportunamente strutturato e commentato per favorirne la manutenzione e la leggibilità.
-
-# Consegna e Valutazione
-Ciascun gruppo deve consegnare il progetto tramite un unico file ZIP caricato tramite Moodle nelle finestre dedicate,  tipicamente  in  prossimità  delle  sessioni  di  esame.  Il  file  ZIP  deve  contenere  sia  il  progetto  che  la documentazione  (in  un  unico  file  in  formato  PDF).  Ogni  componente  del  gruppo è  responsabile  di  chiarire il proprio contributo al progetto durante la presentazione orale dello stesso, ma la valutazione del progetto sarà unica per l’intero gruppo a meno di casi eccezionali (es.  copiature).  Durante la presentazione orale del progetto  uno  o  più  componenti  del  gruppo  mostreranno  all’opera  l’applicazione  sviluppata, facendo vedere le  funzionalità  principali  e  rispondendo  alle  domande  del  docente.  È sufficiente che l’applicazione funzioni localmente su una delle macchine del gruppo:  non è richiesto che sia accessibile tramite Internet.
-Il progetto verrà valutato rispetto ai seguenti parametri:
-1.	Documentazione:     qualità e completezza della documentazione allegata.
-2.	Database:           qualità della progettazione ed uso appropriato degli strumenti presentati nel corso.
-3.	Funzionalità:       quantit`a e qualità delle funzionalità implementate dall’applicazione.
-4.	Codice:             qualità complessiva del codice prodotto (robustezza, leggibilità, generalità, riuso...).
-Si noti che eventuali progetti artificiosamente complicati potrebbero essere penalizzati: implementare funzionalità complesse, ma non appropriatamente pensate o motivate, non è una buona strategia per migliorare la valutazione del proprio progetto.
